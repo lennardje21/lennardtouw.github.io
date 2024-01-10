@@ -12430,6 +12430,7 @@ section.resume-section .resume-section-content {
 
 .projects-section {
     padding: 10rem 0;
+    min-height: 100vh;
 }
 
 .projects-section .featured-text {
@@ -12451,6 +12452,7 @@ section.resume-section .resume-section-content {
 @media (min-width: 992px) {
     .projects-section .project-text {
         padding: 5rem;
+        min-height: 100vh;
     }
 
     .projects-section .project-text hr {
